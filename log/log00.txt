@@ -1,0 +1,2 @@
+w00-170831-19-LR-About: Introduction to Operating System, From: Lecturer
+w00-170831-20-LR-About: Computer Organization Review, From: Lecturer
