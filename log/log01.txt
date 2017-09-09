@@ -1,0 +1,7 @@
+w01-170907-19-LR-About: Intelectual Property Right, From: Lecturer
+w01-170907-20-LR-About: Free Software vs Open Source Software, From: Lecturer
+w01-170907-21-LR-About: Watching demo from lecturer
+w01-170907-22-LR-About: Watching demo from lecturer
+w01-170907-08-PS-About: Introduction to C languages, From: Assistent Lecturer
+w01-170907-09-LR-About: GITHUB Learning
+w01-170907-10-LR-About: Introduction to CLI
